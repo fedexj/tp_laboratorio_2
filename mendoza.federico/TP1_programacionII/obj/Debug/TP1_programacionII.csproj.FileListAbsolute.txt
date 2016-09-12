@@ -1,0 +1,10 @@
+D:\mendoza.federico\TP1_programacionII\bin\Debug\TP1_programacionII.exe.config
+C:\mendoza.federico\TP1_programacionII\bin\Debug\TP1_programacionII.exe.config
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.csprojResolveAssemblyReference.cache
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.Form1.resources
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.Properties.Resources.resources
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.csproj.GenerateResource.Cache
+C:\mendoza.federico\TP1_programacionII\bin\Debug\TP1_programacionII.exe
+C:\mendoza.federico\TP1_programacionII\bin\Debug\TP1_programacionII.pdb
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.exe
+C:\mendoza.federico\TP1_programacionII\obj\Debug\TP1_programacionII.pdb
