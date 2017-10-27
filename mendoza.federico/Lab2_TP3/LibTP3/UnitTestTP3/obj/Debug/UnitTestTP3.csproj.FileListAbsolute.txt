@@ -1,0 +1,14 @@
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\obj\Debug\UnitTestTP3.csprojResolveAssemblyReference.cache
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\UnitTestTP3.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\UnitTestTP3.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Archivos.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Clases Abstractas.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Clases Instanciables.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Excepciones.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Archivos.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Clases Instanciables.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Excepciones.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\bin\Debug\Clases Abstractas.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\obj\Debug\UnitTestTP3.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\UnitTestTP3\obj\Debug\UnitTestTP3.pdb

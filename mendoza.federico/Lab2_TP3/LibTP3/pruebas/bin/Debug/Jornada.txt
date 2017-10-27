@@ -1,0 +1,4 @@
+[Jornada
+ , Clase=Programacion
+, Instructor=[Persona Nombre=Juan, Apellido=Lopez, Dni=12234456, Nacionalidad=Argentino], Legajo=1, clase que toma= DA CLASES DE  Legislacion  Programacion 
+][Persona Nombre=Juan, Apellido=Lopez, Dni=12234456, Nacionalidad=Argentino], Legajo=1, estado de cuenta= Becado, clase que toma= Programacion[Persona Nombre=Jos, Apellido=Gutierrez, Dni=12234456, Nacionalidad=Argentino], Legajo=3, estado de cuenta= Becado, clase que toma= Programacion[Persona Nombre=Carlos, Apellido=Gonzalez, Dni=12236456, Nacionalidad=Argentino], Legajo=5, estado de cuenta= AlDia, clase que toma= Programacion

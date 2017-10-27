@@ -1,0 +1,9 @@
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Excepciones\bin\Debug\Excepciones.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Excepciones\obj\Debug\Excepciones.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Excepciones\obj\Debug\Excepciones.pdb

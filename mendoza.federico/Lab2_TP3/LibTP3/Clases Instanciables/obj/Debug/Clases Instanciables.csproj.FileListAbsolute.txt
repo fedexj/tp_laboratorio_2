@@ -1,0 +1,22 @@
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\federico_mendoza\Desktop\fjm\tp\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+D:\UTN\programacion II\Lab2_TP3\LibTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
